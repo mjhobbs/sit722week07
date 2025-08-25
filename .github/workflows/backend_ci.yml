@@ -1,4 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
+# GitHub Actions workflow to test, build, and push backend Docker images to Azure Container Registry (ACR)
 
 name: Backend CI - Test, Build and Push Images to ACR
 
